@@ -26,10 +26,6 @@ minima:
     github: mitlabence
     stackoverflow: "bemitlas"
 
-author:
-  name: Bence Mitlasoczki
-  email: "mitlabence111@gmail.com"
-
 # Build settings
 theme: minima
 plugins:
