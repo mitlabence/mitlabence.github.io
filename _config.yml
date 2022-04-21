@@ -19,18 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bence Mitlasoczki
-description: This is my website, currently under costruction.
-
-minima:
-  social_links:
-    github: mitlabence
-    stackoverflow: "bemitlas"
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my personal webpage, currently under construction.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  mitlabence
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
